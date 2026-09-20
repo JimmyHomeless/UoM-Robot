@@ -1,0 +1,2187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//UoM Robotics Clean Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UoM Robotics 2026-27 (Clean)
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:03c2e369-98f9-58e3-a11f-79ae92c5bd8f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260925T090000Z
+DTEND:20260925T110000Z
+SUMMARY:Welcome to Robotics
+LOCATION:Engineering Building B · 2B.002 M&T
+DESCRIPTION:Course: Welcome to Robotics\nLocation: Engineering Building B
+ \nRoom: 2B.002 M&T\nTeacher: Pawel Ladosz\; Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:d44fa9a2-740d-510b-a528-0a8d94593f15@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270413T130000Z
+DTEND:20270413T140000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0c2aeb-cd2d-5548-b698-6636eb832e9f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270420T130000Z
+DTEND:20270420T140000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:70a86141-0d24-5bc8-b841-58af55847679@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270427T130000Z
+DTEND:20270427T140000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:01aac54c-1495-5ee7-9fe3-2c320785ac99@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270504T130000Z
+DTEND:20270504T140000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:23bc9dc3-5685-5d67-ba98-b153b4666a8d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270511T130000Z
+DTEND:20270511T140000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:03e2b3d9-ee72-5ea3-a254-9d123d99bb14@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270203T120000Z
+DTEND:20270203T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:a881df70-7db5-5b12-803b-81fa209c8250@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270210T120000Z
+DTEND:20270210T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:66ddb2a8-32aa-5aae-bf23-9ca88715c00e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270217T120000Z
+DTEND:20270217T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:9e26b739-9396-5834-909a-e8d63fd2b6c1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270224T120000Z
+DTEND:20270224T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:8199aaa8-282a-5f74-9f92-2f82bb5d25bd@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270303T120000Z
+DTEND:20270303T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9c94e9-e326-5688-a20c-c5655f5b7884@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270310T120000Z
+DTEND:20270310T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:ee19536d-6af1-55f7-8d24-45a8f50393ac@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270317T120000Z
+DTEND:20270317T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:ea5b3a4a-b7bd-561d-88c3-d810ecdcaa21@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270414T110000Z
+DTEND:20270414T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:5be9be75-a714-5928-94e8-11e9ecda2301@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270421T110000Z
+DTEND:20270421T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:d4d7faed-1612-5f68-a307-cf1555030735@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270428T110000Z
+DTEND:20270428T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:26287ba7-690e-5b6f-9830-71b14cec7f0e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270505T110000Z
+DTEND:20270505T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:cac254de-f926-589e-b464-f084e37339a2@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270512T110000Z
+DTEND:20270512T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Simon Build
+ ing\nRoom: 2.39\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:6d883f18-2c9c-5bf4-b5f9-19ec44c67eb0@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270202T140000Z
+DTEND:20270202T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Michele Caprio
+END:VEVENT
+BEGIN:VEVENT
+UID:178f5262-1655-5324-b790-dd0f6babf1d7@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270209T140000Z
+DTEND:20270209T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Michele Caprio
+END:VEVENT
+BEGIN:VEVENT
+UID:2ef21488-db6d-5c2d-9fb1-18ba7d5fc980@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270216T140000Z
+DTEND:20270216T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Michele Caprio
+END:VEVENT
+BEGIN:VEVENT
+UID:e41acfe1-5eb9-53f7-bc82-9b770fd0d2d9@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270223T140000Z
+DTEND:20270223T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Michele Caprio
+END:VEVENT
+BEGIN:VEVENT
+UID:287302ba-d90b-5933-8435-b7e186186337@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270302T140000Z
+DTEND:20270302T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Michele Caprio
+END:VEVENT
+BEGIN:VEVENT
+UID:14aba132-bd8c-5843-bb0a-714cfda6c130@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270316T140000Z
+DTEND:20270316T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Simon Building\nRoo
+ m: TH A\nTeacher: Michele Caprio
+END:VEVENT
+BEGIN:VEVENT
+UID:34816feb-7bb0-555b-bebe-0233af6bf1e8@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270208T150000Z
+DTEND:20270208T160000Z
+SUMMARY:Dissertation
+LOCATION:Crawford House · TH 1
+DESCRIPTION:Course: Dissertation\nLocation: Crawford House\nRoom: TH 1\nT
+ eacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:d71107d2-8c65-5ee4-90a5-325cdbe56aca@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270201T090000Z
+DTEND:20270201T120000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:ee7e8a8f-e41e-50ef-bfc5-8c6a203b886f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270208T090000Z
+DTEND:20270208T120000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:c4de8f28-b670-53f7-87fb-9de8c97dfddd@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270215T090000Z
+DTEND:20270215T120000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:3a613eff-44ee-5174-a7eb-d48465155f31@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261007T150000Z
+DTEND:20261007T170000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:87138653-9298-53df-b11c-1537a70ec7ac@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261014T150000Z
+DTEND:20261014T170000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1c86eb-86a2-5b36-8e8e-bf093f7bb35e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261021T150000Z
+DTEND:20261021T170000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:39909e77-b5fc-5f32-ae00-6ba770abb1c0@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261028T160000Z
+DTEND:20261028T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d45596-42aa-59ab-aeae-c4f86d8e2616@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261104T160000Z
+DTEND:20261104T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:89fe769b-a092-5a7a-955f-ae54534ce854@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261111T160000Z
+DTEND:20261111T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:29771508-a30e-5a9c-aabc-9c52b47b752c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261118T160000Z
+DTEND:20261118T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:be5d47ac-dfaa-5789-9f97-d2fa537d0d9f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261125T160000Z
+DTEND:20261125T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:d6879e52-2266-51bd-82e1-ad6acbc1b709@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261202T160000Z
+DTEND:20261202T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:d83f2ac9-cbde-5b8b-9ab5-c5773a2f3262@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261209T160000Z
+DTEND:20261209T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:568fbf68-874f-5896-a05c-b9c0bd6f469f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261216T160000Z
+DTEND:20261216T180000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:daedb97b-af21-56fa-abf0-a81cb82847f6@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261028T090000Z
+DTEND:20261028T110000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:11b93d8c-a79d-5d3a-af80-ddf99b401404@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261111T090000Z
+DTEND:20261111T110000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:2a123fdd-6860-5cf8-88ad-0752221c3c2b@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261118T090000Z
+DTEND:20261118T110000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:7982d67e-55a1-5c8d-8825-0eb0cfd9a02b@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261125T090000Z
+DTEND:20261125T110000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:f3b54965-29b4-524f-a818-6b5d5e1ab5a3@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261202T090000Z
+DTEND:20261202T110000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:fe73c1c4-3855-53f8-be9a-cc889c682c9d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261209T090000Z
+DTEND:20261209T110000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:03b8427d-a51f-5a65-a6ce-b0eb0e50a005@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261216T090000Z
+DTEND:20261216T110000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:20493dc6-0412-5e4f-8c45-7ef318fd92c8@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270202T120000Z
+DTEND:20270202T140000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:641d877a-0750-5a9a-af5f-9db1b5ec274a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270209T120000Z
+DTEND:20270209T140000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:2e087a49-a379-5976-8663-98c08e7334af@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270216T120000Z
+DTEND:20270216T140000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:159e4bee-ae4d-5ced-b5d9-51c0ff8abebc@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270223T120000Z
+DTEND:20270223T140000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:5d1b4886-e303-5ade-ae13-eb89f0acf7ac@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270302T120000Z
+DTEND:20270302T140000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:d74f9394-3246-5845-ab83-9f6ca804d32c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270309T120000Z
+DTEND:20270309T140000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:46f7875c-0f10-521b-9bd4-679911d9d0d4@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270316T120000Z
+DTEND:20270316T140000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:572cf4b8-ec66-5855-9cdb-54846ef4943c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270413T110000Z
+DTEND:20270413T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:9e51a1d5-d7eb-5a2c-aa81-9471546e48bf@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270420T110000Z
+DTEND:20270420T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:b56e30b0-8721-58c8-9b07-cc5c13354bf1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270427T110000Z
+DTEND:20270427T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf259fe-f701-58f3-8c51-fac0dfad4b18@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270504T110000Z
+DTEND:20270504T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:9903c655-d14f-53c9-ae06-dc8f168fb253@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270511T110000Z
+DTEND:20270511T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Paige Me
+ tcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:05055ce6-3673-5a80-8d03-b19b963fc9b8@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260921T090000Z
+DTEND:20260921T100000Z
+SUMMARY:Intro to TLSE 'Finding information' Session
+LOCATION:Online
+DESCRIPTION:Course: Intro to TLSE 'Finding information' Session\nLocation
+ : Online\nRoom: Online\nTeacher: Not specified
+END:VEVENT
+BEGIN:VEVENT
+UID:85744f12-1378-5648-b61a-67dc10342cbb@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270423T080000Z
+DTEND:20270423T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Nancy Rothwell Building · EVENT SPACE COMBINED | Nancy Rothwell 
+ Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Nancy Rothwell Bu
+ ilding\nRoom: EVENT SPACE COMBINED / GA.033 Student Build + GA.036 F&A\n
+ Teacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:caedb065-b130-5198-aca9-933ec952ed17@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270507T080000Z
+DTEND:20270507T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Nancy Rothwell Building · EVENT SPACE COMBINED | Nancy Rothwell 
+ Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Nancy Rothwell Bu
+ ilding\nRoom: EVENT SPACE COMBINED / GA.033 Student Build + GA.036 F&A\n
+ Teacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:284a7aed-f188-51f0-84a2-d7e276c272bd@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261111T120000Z
+DTEND:20261111T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Pawel Ladosz
+END:VEVENT
+BEGIN:VEVENT
+UID:014c6a05-586b-5540-8393-8ff3c8950c93@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261007T080000Z
+DTEND:20261007T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Angelo Cangelosi
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab9e17f-59f1-5bc8-830d-ffe296cd6a10@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260930T080000Z
+DTEND:20260930T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Schuster Building · RUTHERFORD TH
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Sch
+ uster Building\nRoom: RUTHERFORD TH\nTeacher: Angelo Cangelosi
+END:VEVENT
+BEGIN:VEVENT
+UID:988a5151-1eb4-5f93-9553-ed6ba621f384@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260921T133000Z
+DTEND:20260921T150000Z
+SUMMARY:Afternoon Tea
+LOCATION:Nancy Rothwell Building · 2A.011 M&T | Nancy Rothwell Building ·
+  2A.012 M&T | Nancy Rothwell Building · 2A.013 M&T | Nancy Rothwell Buil
+ ding · 2A.014 M&T
+DESCRIPTION:Course: Afternoon Tea\nLocation: Nancy Rothwell Building\nRoo
+ m: 2A.011 M&T / 2A.012 M&T / 2A.013 M&T / 2A.014 M&T\nTeacher: Not speci
+ fied
+END:VEVENT
+BEGIN:VEVENT
+UID:8a67b3c7-e1de-571d-87ea-e45369e71076@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270514T080000Z
+DTEND:20270514T100000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Simon Wa
+ tson
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1ebf78-154a-58d2-97a0-08c8b62defe4@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260929T110000Z
+DTEND:20260929T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · EVENT SPACE A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: EVENT SPACE A\nTeacher: Pawel Ladosz\; Paige Metcalf
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:f59ab2f2-b400-5bf2-8f6c-60f31ed03c9c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260925T120000Z
+DTEND:20260925T150000Z
+SUMMARY:Community Fair
+DESCRIPTION:Course: Community Fair\nLocation: Not specified\nRoom: Not sp
+ ecified\nTeacher: Not specified
+END:VEVENT
+BEGIN:VEVENT
+UID:98ba1cb7-06da-511b-b9e5-c8f7e97d113a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260921T100000Z
+DTEND:20260921T110000Z
+SUMMARY:Respect & Dignity at Manchester
+LOCATION:Online
+DESCRIPTION:Course: Respect & Dignity at Manchester\nLocation: Online\nRo
+ om: Online\nTeacher: Not specified
+END:VEVENT
+BEGIN:VEVENT
+UID:d3067e3d-ac9d-524e-8096-431b297138c8@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261111T140000Z
+DTEND:20261111T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:e66a5eb2-f56a-55cb-bd1e-93629fb3f2c9@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261002T080000Z
+DTEND:20261002T090000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Angelo Cangelosi
+END:VEVENT
+BEGIN:VEVENT
+UID:838e4db0-30a7-5460-bc5c-b1c7375e6f08@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261009T080000Z
+DTEND:20261009T090000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Angelo Cangelosi
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f37474-3abc-5afb-b202-683ac0f9f8f1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260930T110000Z
+DTEND:20260930T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:8a67a2ca-a61c-5071-b9d2-c1f0c39d9ece@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261007T110000Z
+DTEND:20261007T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:f2733e66-4a7b-5e4a-95c2-e590acab716d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261014T110000Z
+DTEND:20261014T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:929dac67-d218-53ba-b431-dba5ada613e7@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261021T110000Z
+DTEND:20261021T120000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:e2eee077-96de-53e7-a872-e54f3f57e39d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261028T120000Z
+DTEND:20261028T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5c8ced-365d-51f6-818b-fa994286c961@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261104T120000Z
+DTEND:20261104T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:3d25e965-309a-5d86-9809-a40edb841cdd@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261118T120000Z
+DTEND:20261118T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:17f90984-a34f-5efe-90f9-94fa54b5d5d7@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261125T120000Z
+DTEND:20261125T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:476047a9-061e-507e-9a90-075bce45c5de@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261202T120000Z
+DTEND:20261202T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:55043dff-098a-5459-97b2-32ff7837dec8@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261209T120000Z
+DTEND:20261209T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:2a62a9cc-8c77-54a6-81e1-e4eaa53ee86f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261216T120000Z
+DTEND:20261216T130000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Engineering Building B · 2B.025 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Engineering
+  Building B\nRoom: 2B.025 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:7e9417a0-ca07-5e15-be5e-c8760e912ca1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270305T090000Z
+DTEND:20270305T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Nancy Rothwell Building · 1A.011+1A.016 CompClusters 1&2
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Nancy Rothwell Bu
+ ilding\nRoom: 1A.011+1A.016 CompClusters 1&2\nTeacher: Pawel Ladosz\; Ki
+ eran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:95dd57cc-0fef-52f4-b153-e2f318495001@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270319T090000Z
+DTEND:20270319T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Nancy Rothwell Building · 1A.011+1A.016 CompClusters 1&2
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Nancy Rothwell Bu
+ ilding\nRoom: 1A.011+1A.016 CompClusters 1&2\nTeacher: Pawel Ladosz\; Ki
+ eran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:9f4a28cd-2501-536e-8430-f761426ddcbc@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270416T080000Z
+DTEND:20270416T100000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Nancy Rothwell Building · 1A.011+1A.016 CompClusters 1&2
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Nancy Rothwell Bu
+ ilding\nRoom: 1A.011+1A.016 CompClusters 1&2\nTeacher: Pawel Ladosz\; Ki
+ eran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:167163e1-b305-5fc5-b165-cccc40e50ce1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260929T140000Z
+DTEND:20260929T150000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:dbae6387-2b53-5d3d-a85c-dbfe17d152ab@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261006T140000Z
+DTEND:20261006T150000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:6f703624-ec59-5767-aa01-0552574b24a5@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261020T140000Z
+DTEND:20261020T150000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4213d1-4f84-5f44-8e2c-7dd10afec731@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261027T150000Z
+DTEND:20261027T160000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:0ad18917-64de-5c15-ac7f-75d12c501680@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261110T150000Z
+DTEND:20261110T160000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:449ff41e-3ba9-52d2-bb3f-bd0df8acaa0c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261117T150000Z
+DTEND:20261117T160000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe58946-6ca4-521d-8d87-d61ad40c0172@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261124T150000Z
+DTEND:20261124T160000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:822c02ec-ef13-566a-9f02-9e3c71366d72@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261201T150000Z
+DTEND:20261201T160000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:db293451-d7ea-5054-9759-aed6bc574a32@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261208T150000Z
+DTEND:20261208T160000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:4a69e286-1575-53fc-b7c6-d133391576b3@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270203T140000Z
+DTEND:20270203T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:185cc42e-de15-518f-8ef8-58b71d521a3f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270210T140000Z
+DTEND:20270210T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:b97790ae-5599-5257-af50-f2edc1c8e94a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270217T140000Z
+DTEND:20270217T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:df69ee39-b733-58c8-be0b-22a1823b6559@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270224T140000Z
+DTEND:20270224T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:744c9b2a-fe65-542d-a906-1309913bdecc@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270303T140000Z
+DTEND:20270303T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b5a65a-c754-59ce-904f-0735e83a20c5@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270310T140000Z
+DTEND:20270310T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:9e285701-82bf-5001-aa37-e1b8135b9841@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270317T140000Z
+DTEND:20270317T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:ce30ba05-eb25-51c7-aef5-73ab423954f4@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270414T130000Z
+DTEND:20270414T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:b96d2ee4-99eb-5a3f-ab77-150e050fd4ce@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270421T130000Z
+DTEND:20270421T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:3cf8628e-bd71-5980-8878-40f5ef166817@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270428T130000Z
+DTEND:20270428T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:1b03711d-4d11-5c57-8e7f-b42883ccbd44@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270505T130000Z
+DTEND:20270505T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:8253530b-bef5-5f13-9473-a042a70813b0@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270512T130000Z
+DTEND:20270512T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e6a8ca-21de-5e81-ac6b-b713d024d8ea@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261110T100000Z
+DTEND:20261110T110000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · 2A.012 M&T
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: 2A.012 M&T\nTeacher: Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:8a99e036-07ac-5cbe-9c30-2f7dc22053e1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260924T130000Z
+DTEND:20260924T140000Z
+SUMMARY:Introduction to Institution of Engineering and Technology (IET)
+LOCATION:Nancy Rothwell Building · LECTURE ThA (2A.040)
+DESCRIPTION:Course: Introduction to Institution of Engineering and Techno
+ logy (IET)\nLocation: Nancy Rothwell Building\nRoom: LECTURE ThA (2A.040
+ )\nTeacher: Judith Apsley\; Constantinos Onoufriou\; Shauna (IET) Byrne
+END:VEVENT
+BEGIN:VEVENT
+UID:0de6427f-f194-5904-a924-c69cc2cb7cb5@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270430T080000Z
+DTEND:20270430T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Nancy Rothwell Building · EVENT SPACE COMBINED | Nancy Rothwell 
+ Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Nancy Rothwell Bu
+ ilding\nRoom: EVENT SPACE COMBINED / GA.033 Student Build + GA.036 F&A\n
+ Teacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:cd90cbe0-0736-57af-89df-f0b75bb6b795@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270218T140000Z
+DTEND:20270218T160000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: 1.8+1.10\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:2ce4d297-93bd-51a5-81d8-4a9a63f05411@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270304T140000Z
+DTEND:20270304T160000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: 1.8+1.10\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:fc18831f-1afe-517a-8f7c-df5b338604e7@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270415T130000Z
+DTEND:20270415T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: 1.8+1.10\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4d7c3e-6d23-5f7f-bb45-5e8976dac40e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270429T130000Z
+DTEND:20270429T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: 1.8+1.10\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:5f95a713-e413-5e98-83fb-a3d7f4a83947@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261113T120000Z
+DTEND:20261113T150000Z
+SUMMARY:Robotic Systems
+LOCATION:Engineering Building B · 2B.019 Dry Lab Zone B+C
+DESCRIPTION:Course: Robotic Systems\nLocation: Engineering Building B\nRo
+ om: 2B.019 Dry Lab Zone B+C\nTeacher: Xiaoxiao Cheng\; Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:1d731320-ba1d-5e36-b124-217b9a4192e3@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261014T080000Z
+DTEND:20261014T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Philip Zhao
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7e6b61-ea65-59f5-ab61-acff5ee61fdb@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261021T080000Z
+DTEND:20261021T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · TH 1.1
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: TH 1.1\nTeacher: Philip Zhao
+END:VEVENT
+BEGIN:VEVENT
+UID:636be439-5c44-5d76-9295-cf697870d16a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270222T090000Z
+DTEND:20270222T120000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:cb540df6-2f96-52e3-92c8-5bab1f97258c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270301T090000Z
+DTEND:20270301T120000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:9f7be287-17c4-51dc-837e-a1abb95193ad@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270315T090000Z
+DTEND:20270315T120000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:81a85af0-630a-5c1c-8952-2ecb32d305f9@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270412T080000Z
+DTEND:20270412T110000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5f3879-b7c1-57c2-a126-a331829c7579@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270419T080000Z
+DTEND:20270419T110000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:aef033d1-d3a5-5e60-910c-16a840a7d65a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270426T080000Z
+DTEND:20270426T110000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:05b88340-dc32-58b8-9f4e-7d2776acfe68@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270503T080000Z
+DTEND:20270503T110000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Stopford Building · TH 6
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Stopford Building\nRo
+ om: TH 6\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:4c88c111-1731-5762-87d8-aec201b73ba6@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270212T140000Z
+DTEND:20270212T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · IT407
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: IT407\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed48d12-c4f9-50b1-8019-655f92614278@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270226T140000Z
+DTEND:20270226T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · IT407
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: IT407\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:129585c4-4839-5514-b96e-6d43c9be2967@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270319T140000Z
+DTEND:20270319T150000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · IT407
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: IT407\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:983b347d-3b11-5ebe-968c-c2da9c6f621c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270423T130000Z
+DTEND:20270423T140000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · IT407
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: IT407\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:6566b0c7-cc39-5a1d-b606-17890027c77d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270507T130000Z
+DTEND:20270507T140000Z
+SUMMARY:Reinforcement Learning
+LOCATION:Kilburn Building · IT407
+DESCRIPTION:Course: Reinforcement Learning\nLocation: Kilburn Building\nR
+ oom: IT407\nTeacher: Michele Caprio\; Georgios Detorakis
+END:VEVENT
+BEGIN:VEVENT
+UID:c6232d53-6b3a-5029-9496-53b445dfb0f6@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261007T130000Z
+DTEND:20261007T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:09551ec4-1a40-5650-b512-ea08fec1e913@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261014T130000Z
+DTEND:20261014T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:6b71fe87-dd3f-55f4-bbb3-55b5b359d7b6@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261021T130000Z
+DTEND:20261021T150000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:cae6d7d7-23a0-5757-97c6-70d8490c8a19@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261028T140000Z
+DTEND:20261028T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:0587e4e7-1a3b-5262-ada6-d90453d7e626@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261104T140000Z
+DTEND:20261104T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:18fb781b-1252-5311-a659-7f928ef80d32@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261118T140000Z
+DTEND:20261118T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:823245a6-5cdc-5b25-87ed-af93ec52926a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261125T140000Z
+DTEND:20261125T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f61ead-31f7-5629-8408-eca3d158b1a3@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261202T140000Z
+DTEND:20261202T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:44f163ec-bc12-54fc-8e9b-f41f3ecb2224@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261209T140000Z
+DTEND:20261209T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:512bcf87-6e0e-5d90-aabc-5c171655d10f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261216T140000Z
+DTEND:20261216T160000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:25187553-417f-5e14-8ecc-c28c702095f7@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270222T130000Z
+DTEND:20270222T140000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Xiaoxiao Cheng\; Muri
+ lo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:2070553a-b20c-5ddc-b3e5-f8fa9fbaacf9@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261120T120000Z
+DTEND:20261120T150000Z
+SUMMARY:Robotic Systems
+LOCATION:Engineering Building B · 2B.019 Dry Lab Zone B+C
+DESCRIPTION:Course: Robotic Systems\nLocation: Engineering Building B\nRo
+ om: 2B.019 Dry Lab Zone B+C\nTeacher: Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd15e02-6696-50ec-8e84-e4a58c838979@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261015T080000Z
+DTEND:20261015T090000Z
+SUMMARY:Software for Robotics
+LOCATION:Online
+DESCRIPTION:Course: Software for Robotics\nLocation: Online\nRoom: Online
+ \nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:39acdfc9-3266-595e-b03a-7367c928ca45@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270203T090000Z
+DTEND:20270203T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:f87748f7-60c5-5728-a32a-5e4cf1669099@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270210T090000Z
+DTEND:20270210T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:80ee8db2-05e0-5c21-94b7-32b20ccd733e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270217T090000Z
+DTEND:20270217T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:46acbaf5-1ce1-5771-884c-b6fb4979f20f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270224T090000Z
+DTEND:20270224T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:3e65a523-0944-5095-86e8-935d4813bd9c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270303T090000Z
+DTEND:20270303T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:b061f798-e62f-56d3-94b0-cf8b6d0a865f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270310T090000Z
+DTEND:20270310T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f53970-effc-5b04-b023-e6567e941eba@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270317T090000Z
+DTEND:20270317T110000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:2807c21b-297f-55b1-9da7-2fbc68cadeaa@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270414T080000Z
+DTEND:20270414T100000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:ce6aace9-1f6d-54f9-8f1b-f444ce9824b1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270421T080000Z
+DTEND:20270421T100000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:67f8e213-85b5-5bef-9d0e-e1db83f12a7d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270428T080000Z
+DTEND:20270428T100000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:40238d94-f6e3-58c9-8b0a-07b305a1b013@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270505T080000Z
+DTEND:20270505T100000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:8c2e2a05-c2b7-55d2-ad04-1e00dd5cee44@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270512T080000Z
+DTEND:20270512T100000Z
+SUMMARY:Autonomous Mobile Robots
+LOCATION:Schuster Building · BRAGG TH
+DESCRIPTION:Course: Autonomous Mobile Robots\nLocation: Schuster Building
+ \nRoom: BRAGG TH\nTeacher: Pawel Ladosz\; Kieran Wood
+END:VEVENT
+BEGIN:VEVENT
+UID:03267c8b-7ba3-55f7-ba93-e06733c17cd6@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261016T080000Z
+DTEND:20261016T090000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Philip Zhao
+END:VEVENT
+BEGIN:VEVENT
+UID:e91d03bd-a946-5a7e-bf22-0ac62262cc13@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261023T080000Z
+DTEND:20261023T090000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Philip Zhao
+END:VEVENT
+BEGIN:VEVENT
+UID:5e022779-0c27-5db0-904c-5d382f014e90@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270301T130000Z
+DTEND:20270301T140000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1d4a4f-4f92-5a10-a589-929808c4150a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270315T130000Z
+DTEND:20270315T140000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:a43bafc2-6b74-5292-aa47-1c76613f4db3@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270412T120000Z
+DTEND:20270412T130000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:b0e2c29e-7cea-5411-81cb-37e91a859fb9@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270419T120000Z
+DTEND:20270419T130000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ad25e0-b1f1-5d85-b505-fd7ed23c01a1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270426T120000Z
+DTEND:20270426T130000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:b671e08a-68ce-5496-97b2-650779192f16@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270503T120000Z
+DTEND:20270503T130000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec329cd-784d-5e72-86d2-5bb8fa3fa4b4@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260930T150000Z
+DTEND:20260930T170000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · EVENT SPACE A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: EVENT SPACE A\nTeacher: Paige Metcalfe
+END:VEVENT
+BEGIN:VEVENT
+UID:af3565df-f79c-5d3e-8b0b-a70e25f82086@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270510T080000Z
+DTEND:20270510T110000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Simon Building · TH A
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Simon Building\nRoom:
+  TH A\nTeacher: Xiaoxiao Cheng\; Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:8939e97b-750a-5bd5-bc8b-b30ee14d5f6d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270513T080000Z
+DTEND:20270513T170000Z
+SUMMARY:Robotic Systems Design Project
+LOCATION:Nancy Rothwell Building · GA.033 Student Build + GA.036 F&A
+DESCRIPTION:Course: Robotic Systems Design Project\nLocation: Nancy Rothw
+ ell Building\nRoom: GA.033 Student Build + GA.036 F&A\nTeacher: Pawel La
+ dosz\; Paige Metcalfe\; Simon Watson
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a4217e-0962-5f25-afdf-ef3d37e06077@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261030T090000Z
+DTEND:20261030T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:330c87f8-5431-58a7-a68e-1da4567beadf@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261113T090000Z
+DTEND:20261113T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:0eed7866-1dd1-544f-bc2a-b23b60a98062@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261120T090000Z
+DTEND:20261120T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:fa8e0527-8d75-5a9f-a611-43d7944c4682@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261127T090000Z
+DTEND:20261127T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:a1508e4a-459b-5c21-bcaa-5f845a0fda11@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261204T090000Z
+DTEND:20261204T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:dba57efa-66ba-51da-972c-3ce4c936912e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261211T090000Z
+DTEND:20261211T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:dc504bc7-76ab-58a0-a39e-8968d0b8389a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261218T090000Z
+DTEND:20261218T100000Z
+SUMMARY:Cognitive Robotics and Computer Vision
+LOCATION:Kilburn Building · 1.8+1.10
+DESCRIPTION:Course: Cognitive Robotics and Computer Vision\nLocation: Kil
+ burn Building\nRoom: 1.8+1.10\nTeacher: Afroditi Galata
+END:VEVENT
+BEGIN:VEVENT
+UID:0f3dc924-ab13-585d-9a66-0acb361f8ded@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270201T130000Z
+DTEND:20270201T140000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:716dc6bf-4dba-55fb-aad7-78174e15787e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270208T130000Z
+DTEND:20270208T140000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:5e888b3d-f8dc-533e-bb8e-1d84b7fb17c1@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20270215T130000Z
+DTEND:20270215T140000Z
+SUMMARY:Robotic Manipulators
+LOCATION:Nancy Rothwell Building · 2A.021+2A.024 CompClusters 4&5
+DESCRIPTION:Course: Robotic Manipulators\nLocation: Nancy Rothwell Buildi
+ ng\nRoom: 2A.021+2A.024 CompClusters 4&5\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:85180b2d-d2be-528f-a0d8-a59c73fee478@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260924T090000Z
+DTEND:20260924T100000Z
+SUMMARY:H&S and Academic Malpractice Training
+LOCATION:Online
+DESCRIPTION:Course: H&S and Academic Malpractice Training\nLocation: Onli
+ ne\nRoom: Online\nTeacher: Not specified
+END:VEVENT
+BEGIN:VEVENT
+UID:033af7f9-bac1-5287-8bd1-7e03688e0d46@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260921T120000Z
+DTEND:20260921T133000Z
+SUMMARY:Welcome to the Department of EEE
+LOCATION:University Place · TH B
+DESCRIPTION:Course: Welcome to the Department of EEE\nLocation: Universit
+ y Place\nRoom: TH B\nTeacher: Liam Marsh
+END:VEVENT
+BEGIN:VEVENT
+UID:af39f795-33c4-5cf7-9488-aa2a4269cb2a@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261203T140000Z
+DTEND:20261203T170000Z
+SUMMARY:Robotic Systems
+LOCATION:Simon Building · 4.63
+DESCRIPTION:Course: Robotic Systems\nLocation: Simon Building\nRoom: 4.63
+ \nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d08e9f-82c2-51dd-b2ca-7f5a3bb5b662@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261217T120000Z
+DTEND:20261217T150000Z
+SUMMARY:Robotic Systems
+LOCATION:James Chadwick Building · 3.009
+DESCRIPTION:Course: Robotic Systems\nLocation: James Chadwick Building\nR
+ oom: 3.009\nTeacher: Xiaoxiao Cheng\; Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:ec0d6582-3ec3-5ef6-9f8d-ac5e4e87cf08@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261210T130000Z
+DTEND:20261210T160000Z
+SUMMARY:Robotic Systems
+LOCATION:Simon Building · 4.63
+DESCRIPTION:Course: Robotic Systems\nLocation: Simon Building\nRoom: 4.63
+ \nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:c623f44e-8c97-552c-b0ea-0d87eb7dc238@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261015T100000Z
+DTEND:20261015T130000Z
+SUMMARY:Robotic Systems
+LOCATION:Simon Building · 2.39
+DESCRIPTION:Course: Robotic Systems\nLocation: Simon Building\nRoom: 2.39
+ \nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:f687d62b-038b-5cdf-ba5e-039da8d42106@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261030T110000Z
+DTEND:20261030T140000Z
+SUMMARY:Robotic Systems
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Engineering Building B\nRo
+ om: 2B.026 M&T\nTeacher: Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:47908b8e-fe3d-5be5-bf99-61ef82f3f2ce@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261126T100000Z
+DTEND:20261126T130000Z
+SUMMARY:Robotic Systems
+LOCATION:University Place · 2.220
+DESCRIPTION:Course: Robotic Systems\nLocation: University Place\nRoom: 2.
+ 220\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:dff4a9cb-8eec-5203-b552-fa630c9a4d14@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261119T100000Z
+DTEND:20261119T130000Z
+SUMMARY:Robotic Systems
+LOCATION:Simon Building · 2.61
+DESCRIPTION:Course: Robotic Systems\nLocation: Simon Building\nRoom: 2.61
+ \nTeacher: Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:7154c503-29b8-53f5-b5c6-0872f1fd1894@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261217T160000Z
+DTEND:20261217T170000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Xiaoxiao Cheng\; Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:8a29e321-e8c2-5b74-827a-85fded10a0a3@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261030T150000Z
+DTEND:20261030T160000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.011 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.011 M&T\nTeacher: Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:c92c107c-f3fa-5102-a150-519fb691d896@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261203T170000Z
+DTEND:20261203T180000Z
+SUMMARY:Robotic Systems
+LOCATION:Simon Building · 4.50
+DESCRIPTION:Course: Robotic Systems\nLocation: Simon Building\nRoom: 4.50
+ \nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:5175e092-0e75-56e4-861c-84ab85cf14ba@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260928T080000Z
+DTEND:20260928T090000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:62520421-364b-5771-88ca-52766e0941af@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261005T080000Z
+DTEND:20261005T090000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:0b2e9503-a770-5cf5-8c4a-b65a5cbfc169@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261012T080000Z
+DTEND:20261012T090000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:a7a6879e-4c8a-5e7c-8fb5-8e7f2c169e93@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261019T080000Z
+DTEND:20261019T090000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:24007709-16ed-5e7e-90dd-f9aabae8f923@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261026T090000Z
+DTEND:20261026T100000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd48d77-65a5-53ac-affc-5eb64a228e57@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261109T090000Z
+DTEND:20261109T100000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:cec875f1-b9f4-5aae-bb81-1dd4904bef4e@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261116T090000Z
+DTEND:20261116T100000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:e00745d2-9c24-5b5e-b1e6-51e8b0285a92@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261123T090000Z
+DTEND:20261123T100000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:55579d40-7c7b-519b-adaa-132007a3ef99@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261130T090000Z
+DTEND:20261130T100000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:83bee378-3083-594f-bec6-47b278026e7f@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261207T090000Z
+DTEND:20261207T100000Z
+SUMMARY:Software for Robotics
+LOCATION:Engineering Building B · 2B.026 M&T
+DESCRIPTION:Course: Software for Robotics\nLocation: Engineering Building
+  B\nRoom: 2B.026 M&T\nTeacher: Murilo Marinho
+END:VEVENT
+BEGIN:VEVENT
+UID:4793a2a0-e4b0-54f6-8560-16ed753dee00@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261001T110000Z
+DTEND:20261001T140000Z
+SUMMARY:Robotic Systems
+LOCATION:James Chadwick Building · 3.009
+DESCRIPTION:Course: Robotic Systems\nLocation: James Chadwick Building\nR
+ oom: 3.009\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:02da866d-3496-59f1-b965-e28a3c0686ee@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261008T110000Z
+DTEND:20261008T140000Z
+SUMMARY:Robotic Systems
+LOCATION:James Chadwick Building · 3.009
+DESCRIPTION:Course: Robotic Systems\nLocation: James Chadwick Building\nR
+ oom: 3.009\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:f6add15e-c10c-569d-9243-84ffb28c31cc@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261022T110000Z
+DTEND:20261022T140000Z
+SUMMARY:Robotic Systems
+LOCATION:James Chadwick Building · 3.009
+DESCRIPTION:Course: Robotic Systems\nLocation: James Chadwick Building\nR
+ oom: 3.009\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:6975a75f-7e42-5d13-82c1-0ed028bc72fa@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261001T150000Z
+DTEND:20261001T160000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:e00e7df6-57bd-57d2-9c61-2253a85571fd@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261008T150000Z
+DTEND:20261008T160000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:34c52350-6724-55c0-8d69-805817a2549d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261015T150000Z
+DTEND:20261015T160000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:99c2b93d-98ac-510e-a285-398a180582ad@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261022T150000Z
+DTEND:20261022T160000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:3a5c23da-1f9a-56f3-b5b9-a6895c03c98c@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261126T160000Z
+DTEND:20261126T170000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:f7116273-0220-591d-be3e-664c7b810248@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261210T160000Z
+DTEND:20261210T170000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Xiaoxiao Cheng
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e1266f-23c0-5249-8d5d-30f08611130d@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261112T120000Z
+DTEND:20261112T150000Z
+SUMMARY:Robotic Systems
+LOCATION:James Chadwick Building · 3.009
+DESCRIPTION:Course: Robotic Systems\nLocation: James Chadwick Building\nR
+ oom: 3.009\nTeacher: Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:85f2ba88-4c40-5db9-a6a6-adec0552a8d9@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261112T160000Z
+DTEND:20261112T170000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5a7c02-1932-5743-8dbd-e0182a315e52@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20261119T160000Z
+DTEND:20261119T170000Z
+SUMMARY:Robotic Systems
+LOCATION:Nancy Rothwell Building · 2A.014 M&T
+DESCRIPTION:Course: Robotic Systems\nLocation: Nancy Rothwell Building\nR
+ oom: 2A.014 M&T\nTeacher: Thomas Piercy
+END:VEVENT
+BEGIN:VEVENT
+UID:welcome-1-2026@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260922T120000Z
+DTEND:20260922T130000Z
+SUMMARY:Making the most of your time at Manchester
+DESCRIPTION:Course: Making the most of your time at Manchester\nLocation:
+  Not specified\nRoom: Not specified\nTeacher: Not specified
+END:VEVENT
+BEGIN:VEVENT
+UID:welcome-2-2026@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260922T130000Z
+DTEND:20260922T150000Z
+SUMMARY:Postgraduate Taught Welcome Networking Event
+DESCRIPTION:Course: Postgraduate Taught Welcome Networking Event\nLocatio
+ n: Not specified\nRoom: Not specified\nTeacher: Not specified
+END:VEVENT
+BEGIN:VEVENT
+UID:welcome-3-2026@uom-clean
+DTSTAMP:20260920T212610Z
+DTSTART:20260924T120000Z
+DTEND:20260924T133000Z
+SUMMARY:Postgraduate Taught Welcome Networking Event
+DESCRIPTION:Course: Postgraduate Taught Welcome Networking Event\nLocatio
+ n: Not specified\nRoom: Not specified\nTeacher: Not specified
+END:VEVENT
+END:VCALENDAR
