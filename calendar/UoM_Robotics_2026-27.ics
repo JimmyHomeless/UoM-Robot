@@ -2163,8 +2163,9 @@ DTSTAMP:20260920T212610Z
 DTSTART:20260922T120000Z
 DTEND:20260922T130000Z
 SUMMARY:Making the most of your time at Manchester
+LOCATION:The Atrium\, 1st Floor\, University Place
 DESCRIPTION:Course: Making the most of your time at Manchester\nLocation:
-  Not specified\nRoom: Not specified\nTeacher: Not specified
+  University Place\nRoom: The Atrium\, 1st Floor\nTeacher: Not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:welcome-2-2026@uom-clean
@@ -2172,8 +2173,9 @@ DTSTAMP:20260920T212610Z
 DTSTART:20260922T130000Z
 DTEND:20260922T150000Z
 SUMMARY:Postgraduate Taught Welcome Networking Event
+LOCATION:The Activity Zone
 DESCRIPTION:Course: Postgraduate Taught Welcome Networking Event\nLocatio
- n: Not specified\nRoom: Not specified\nTeacher: Not specified
+ n: The Activity Zone\nRoom: The Activity Zone\nTeacher: Not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:welcome-3-2026@uom-clean
@@ -2181,7 +2183,8 @@ DTSTAMP:20260920T212610Z
 DTSTART:20260924T120000Z
 DTEND:20260924T133000Z
 SUMMARY:Postgraduate Taught Welcome Networking Event
+LOCATION:The Activity Zone
 DESCRIPTION:Course: Postgraduate Taught Welcome Networking Event\nLocatio
- n: Not specified\nRoom: Not specified\nTeacher: Not specified
+ n: The Activity Zone\nRoom: The Activity Zone\nTeacher: Not specified
 END:VEVENT
 END:VCALENDAR
