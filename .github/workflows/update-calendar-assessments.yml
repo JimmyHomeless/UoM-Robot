@@ -1,0 +1,33 @@
+name: Update calendar assessments
+
+on:
+  push:
+    paths:
+      - 'tools/add_continuous_assessments.py'
+      - '.github/workflows/update-calendar-assessments.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Add continuous assessments
+        run: python tools/add_continuous_assessments.py
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add calendar/UoM_Robotics_2026-27.ics
+          if git diff --cached --quiet; then
+            echo "No calendar changes to commit"
+          else
+            git commit -m "Add Week 2-11 continuous assessments"
+            git push
+          fi
