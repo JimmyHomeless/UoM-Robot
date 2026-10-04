@@ -2187,4 +2187,104 @@ LOCATION:The Activity Zone
 DESCRIPTION:Course: Postgraduate Taught Welcome Networking Event\nLocatio
  n: The Activity Zone\nRoom: The Activity Zone\nTeacher: Not specified
 END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-2-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20260928T110500Z
+DTEND:20260928T121000Z
+SUMMARY:Continuous Assessment (Week 2)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 2\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-3-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261005T110500Z
+DTEND:20261005T121000Z
+SUMMARY:Continuous Assessment (Week 3)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 3\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-4-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261012T110500Z
+DTEND:20261012T121000Z
+SUMMARY:Continuous Assessment (Week 4)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 4\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-5-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261019T110500Z
+DTEND:20261019T121000Z
+SUMMARY:Continuous Assessment (Week 5)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 5\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-6-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261026T120500Z
+DTEND:20261026T131000Z
+SUMMARY:Continuous Assessment (Week 6)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 6\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-7-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261102T120500Z
+DTEND:20261102T131000Z
+SUMMARY:Continuous Assessment (Week 7)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 7\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-8-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261109T120500Z
+DTEND:20261109T131000Z
+SUMMARY:Continuous Assessment (Week 8)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 8\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-9-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261116T120500Z
+DTEND:20261116T131000Z
+SUMMARY:Continuous Assessment (Week 9)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 9\nLocation: Online\
+ nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-10-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261123T120500Z
+DTEND:20261123T131000Z
+SUMMARY:Continuous Assessment (Week 10)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 10\nLocation: Online
+ \nTime: 12:05-13:10 (UK local time)
+END:VEVENT
+BEGIN:VEVENT
+UID:continuous-assessment-week-11-2026@uom-clean
+DTSTAMP:20261004T225200Z
+DTSTART:20261130T120500Z
+DTEND:20261130T131000Z
+SUMMARY:Continuous Assessment (Week 11)
+LOCATION:Online
+DESCRIPTION:Assessment: Continuous Assessment\nWeek: 11\nLocation: Online
+ \nTime: 12:05-13:10 (UK local time)
+END:VEVENT
 END:VCALENDAR
