@@ -74,3 +74,5 @@ CALENDAR.write_text(text, encoding="utf-8", newline="")
 
 assert text.count("UID:continuous-assessment-week-") == 10
 print("Added Week 2-11 continuous assessments, Mondays 12:05-13:10 Europe/London")
+
+# Trigger marker: 2026-10-04
