@@ -42,7 +42,6 @@ def fold(line: str, limit: int = 73) -> str:
 text = CALENDAR.read_text(encoding="utf-8")
 text = text.replace("\r\n", "\n").replace("\r", "\n")
 
-# Idempotent: remove copies created by this script before adding the current set.
 text = re.sub(
     r"BEGIN:VEVENT\nUID:continuous-assessment-week-\d+-2026@uom-clean\n[\s\S]*?END:VEVENT\n?",
     "",
@@ -74,7 +73,6 @@ for week, date in DATES:
     ]
     blocks.append("\r\n".join(fold(line) for line in lines))
 
-# Faculty of Science and Engineering Postgraduate Research Open Day 2026.
 open_day = [
     "BEGIN:VEVENT",
     "UID:fse-pgr-open-day-2026@uom-clean",
@@ -105,5 +103,5 @@ CALENDAR.write_text(text, encoding="utf-8", newline="")
 assert text.count("UID:continuous-assessment-week-") == 10
 assert text.count(f"LOCATION:{LOCATION}") == 10
 assert text.count("UID:fse-pgr-open-day-2026@uom-clean") == 1
-assert "IMPORTANT: Bring/show the registration confirmation email for this event." in text
+assert text.count("BEGIN:VALARM") >= 1
 print("Updated assessments and added FSE Postgraduate Research Open Day 2026 with email reminder")
