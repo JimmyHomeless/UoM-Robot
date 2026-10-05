@@ -48,6 +48,11 @@ text = re.sub(
     "",
     text,
 )
+text = re.sub(
+    r"BEGIN:VEVENT\nUID:fse-pgr-open-day-2026@uom-clean\n[\s\S]*?END:VEVENT\n?",
+    "",
+    text,
+)
 
 stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 blocks = []
@@ -69,6 +74,29 @@ for week, date in DATES:
     ]
     blocks.append("\r\n".join(fold(line) for line in lines))
 
+# Faculty of Science and Engineering Postgraduate Research Open Day 2026.
+open_day = [
+    "BEGIN:VEVENT",
+    "UID:fse-pgr-open-day-2026@uom-clean",
+    f"DTSTAMP:{stamp}",
+    f"DTSTART:{utc_stamp('2026-11-11', 12, 0)}",
+    f"DTEND:{utc_stamp('2026-11-11', 17, 0)}",
+    "SUMMARY:Faculty of Science and Engineering Postgraduate Research Open Day 2026",
+    "LOCATION:Nancy Rothwell Building",
+    (
+        "DESCRIPTION:Faculty of Science and Engineering Postgraduate Research Open Day 2026\\n"
+        "Starts at: Nancy Rothwell Building\\n"
+        "IMPORTANT: Bring/show the registration confirmation email for this event."
+    ),
+    "BEGIN:VALARM",
+    "TRIGGER:-P1D",
+    "ACTION:DISPLAY",
+    "DESCRIPTION:Tomorrow: PGR Open Day - remember to bring/show your registration confirmation email",
+    "END:VALARM",
+    "END:VEVENT",
+]
+blocks.append("\r\n".join(fold(line) for line in open_day))
+
 payload = "\r\n".join(blocks) + "\r\n"
 text = text.replace("\nEND:VCALENDAR", "\n" + payload.replace("\r\n", "\n") + "END:VCALENDAR", 1)
 text = text.replace("\n", "\r\n")
@@ -76,4 +104,6 @@ CALENDAR.write_text(text, encoding="utf-8", newline="")
 
 assert text.count("UID:continuous-assessment-week-") == 10
 assert text.count(f"LOCATION:{LOCATION}") == 10
-print("Updated Week 2-11 continuous assessments: Mondays 12:05-13:10, Nancy Rothwell_BLENDED Th1 (GA 056)")
+assert text.count("UID:fse-pgr-open-day-2026@uom-clean") == 1
+assert "IMPORTANT: Bring/show the registration confirmation email for this event." in text
+print("Updated assessments and added FSE Postgraduate Research Open Day 2026 with email reminder")
