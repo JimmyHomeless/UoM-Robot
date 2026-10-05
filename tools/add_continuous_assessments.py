@@ -18,6 +18,8 @@ DATES = [
     (11, "2026-11-30"),
 ]
 
+LOCATION = "Nancy Rothwell_BLENDED Th1 (GA 056)"
+
 
 def utc_stamp(local_date: str, hour: int, minute: int) -> str:
     local = datetime.strptime(local_date, "%Y-%m-%d").replace(
@@ -57,10 +59,10 @@ for week, date in DATES:
         f"DTSTART:{utc_stamp(date, 12, 5)}",
         f"DTEND:{utc_stamp(date, 13, 10)}",
         f"SUMMARY:Continuous Assessment (Week {week})",
-        "LOCATION:Online",
+        f"LOCATION:{LOCATION}",
         (
             "DESCRIPTION:Assessment: Continuous Assessment\\n"
-            f"Week: {week}\\nLocation: Online\\n"
+            f"Week: {week}\\nLocation: {LOCATION}\\n"
             "Time: 12:05-13:10 (UK local time)"
         ),
         "END:VEVENT",
@@ -73,6 +75,5 @@ text = text.replace("\n", "\r\n")
 CALENDAR.write_text(text, encoding="utf-8", newline="")
 
 assert text.count("UID:continuous-assessment-week-") == 10
-print("Added Week 2-11 continuous assessments, Mondays 12:05-13:10 Europe/London")
-
-# Trigger marker: 2026-10-04
+assert text.count(f"LOCATION:{LOCATION}") == 10
+print("Updated Week 2-11 continuous assessments: Mondays 12:05-13:10, Nancy Rothwell_BLENDED Th1 (GA 056)")
